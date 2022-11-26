@@ -10,8 +10,8 @@ function Hero() {
         I&apos;m never gonna give you up
       </h3>
       <p className="max-w-4xl mt-2 text-slate-300">
-        I’m a software engineer specializing in building (and occasionally
-        designing) exceptional digital experiences. Currently, I’m focused on
+        I&apos;m a software engineer specializing in building (and occasionally
+        designing) exceptional digital experiences. Currently, I&apos;m focused on
         building accessible, human-centered products.
       </p>
     </div>
