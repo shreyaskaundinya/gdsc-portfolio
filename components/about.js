@@ -41,7 +41,7 @@ function About() {
           </div>
 
           <p className="font-bold mt-8">
-            Here are some of the technologies I'm familiar with :{" "}
+            Here are some of the technologies I&apos;m familiar with :{" "}
           </p>
           <div className="content__technologies text-slate-300 grid grid-cols-2 mt-4">
             {skills.map((skill) => {
